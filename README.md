@@ -137,9 +137,3 @@ Or use VS Code's **Live Server** extension for hot reload.
 ## 📄 License
 
 © 2026 Eyad Ashraf. All rights reserved.
-
----
-
-## 🤝 Contact
-
-For business enquiries: **+44 207 946 0958** · WhatsApp available via the site's chat button.
